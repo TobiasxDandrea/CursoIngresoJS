@@ -4,9 +4,11 @@ se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
 
-	let nombre;
+alert ("Esto funciona de maravilla !");
+
+	/*let nombre;
 	nombre = prompt ("Ingrese nombre");
-	alert (nombre);
+	alert (nombre);*/
 
 
 	/* let nombre; declaro la variable
